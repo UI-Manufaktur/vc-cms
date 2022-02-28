@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vc-cms
+vc-cms.so
+vc-cms.dylib
+vc-cms.dll
+vc-cms.a
+vc-cms.lib
+vc-cms-test-*
+*.exe
+*.o
+*.obj
+*.lst
